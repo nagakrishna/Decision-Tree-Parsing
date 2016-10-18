@@ -1,5 +1,5 @@
 # Decision-Tree-Parsing
-Generating individual class paths of Decicion Tree
+Generating individual class paths from Decision Tree model
 
 ###Usage:
 1. Create a Decision Tree model using 'DT_ImageClassification' scala class. Decision tree model will be saved to 'data/DT.txt'.
